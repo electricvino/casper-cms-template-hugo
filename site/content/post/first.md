@@ -1,5 +1,5 @@
 ---
-date: 2016-12-22T20:04:40.407Z
 title: First Post
+date: '2018-07-22T00:00:00-05:00'
 ---
-First post is static.
+Initial post primary for testing Netlify CMS.
