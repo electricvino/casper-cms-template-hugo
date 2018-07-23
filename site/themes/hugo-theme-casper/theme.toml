@@ -1,15 +1,15 @@
-name = "Casper"
+name = "JVweb"
 license = "MIT"
 licenselink = "https://github.com/vjeantet/hugo-theme-casper/blob/master/LICENSE.md"
-description = "Casper theme from Ghost Foundation"
-homepage = "http://vjeantet.fr/"
+description = "My Personal site for dev and general fuckery"
+homepage = "http://www.jonvinson.info/"
 tags = ["blog"]
 features = ["disqus", "google analytics","share"]
 min_version=0.14
 
 [author]
-  name = "Valere JEANTET"
-  homepage = "http://vjeantet.fr"
+  name = "Jon Vinson"
+  homepage = "http://www.jonvinson.info"
 
 [original]
   name = "Casper"
