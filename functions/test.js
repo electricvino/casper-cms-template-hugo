@@ -1,6 +1,6 @@
 exports.handler = (event, context, callback) => {
     callback(null, {
         statusCode: 200,
-        body: 'No worries!'
+        body:  process.env.INSTAGRAM_ACCESS_TOKEN.slice(0,5)
     })
 }
