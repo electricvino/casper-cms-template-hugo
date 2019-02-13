@@ -28,3 +28,19 @@ canonifyurls = true
   hideHUGOSupport = false
   [params.social]
     twitter = "your_twitter"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "blog"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/"
+    weight = -110
+
+  [[menu.main]]
+    name = "resume"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/resume/"
+    weight = -100
