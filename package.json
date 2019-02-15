@@ -8,6 +8,7 @@
     "webpack": "gulp webpack",
     "build": "gulp build",
     "build-preview": "gulp build-preview",
+    "build:lambda": "netlify-lambda build src/lambda",
     "start": "gulp server",
     "lint": "eslint src"
   },
