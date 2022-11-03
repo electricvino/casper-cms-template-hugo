@@ -44,6 +44,6 @@
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
-    "gulp": "^3.9.1"
+    "gulp": "^4.0.2"
   }
 }
